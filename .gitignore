@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate.*
+*.lock.hcl*
+task08/new.tar.gz
